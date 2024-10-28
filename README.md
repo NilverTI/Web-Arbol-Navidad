@@ -1,4 +1,4 @@
-# VISTA WEB {NAVIDAD.HTML](https://web-arbol-navidad.netlify.app/)
+# VISTA WEB [NAVIDAD.HTML](https://web-arbol-navidad.netlify.app/)
 
 # Animación de Alegría Navideña 🎄✨
 
