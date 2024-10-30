@@ -23,6 +23,3 @@ Explora el código y experimenta con diferentes colores, tiempos y estilos para 
 
 Propaga la alegría navideña incorporando esta animación en tus proyectos web. ¡Feliz codificación y Feliz Navidad! 🎅🎁
 
----
-
-¡Espero que encuentres útil esta descripción para tu proyecto en GitHub!
